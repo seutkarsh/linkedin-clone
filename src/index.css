@@ -34,3 +34,7 @@ ul{
   font-size: 100%;
   vertical-align:baseline ;
 }
+
+body{
+  font-family: Arial,sans-serif;
+}
